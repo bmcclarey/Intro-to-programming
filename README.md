@@ -1,4 +1,2 @@
 # Intro-to-programming
-can you see this
-hello
-is it updating in real time?
+print("Davy's auto shop services")

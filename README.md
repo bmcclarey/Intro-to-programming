@@ -24,4 +24,9 @@ elif service2 == 'Tire rotation':
 elif service2 == 'Car wash':
     print('service 2: Car wash, $7')
 elif service2 == 'Car wax':
-    print('Service 2: Car wax, $12')    
+    print('Service 2: Car wax, $12')
+elif service2 == '-':
+    print('Service 2: No service')
+
+    
+    

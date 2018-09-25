@@ -19,7 +19,7 @@ else:
 if(service2 == "-"):
   print("Service 2: No service")
 else:
-  print("Service 1: %s, $%d" %(service2, service_schedule.get(service2)))
+  print("Service 2: %s, $%d" %(service2, service_schedule.get(service2)))
 total = service_schedule.get(service1) + service_schedule.get(service2)
 print()
 print("Total: $%d" % (total))

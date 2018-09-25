@@ -1,6 +1,6 @@
 # Intro-to-programming
 service_schedule = {"-": 0,"Oil change" : 35, "Tire rotation" : 19, "Car wash" : 7, "Car wax": 12}
-invoice_total = 0
+total = 0
 print("Davy's auto shop services")
 print('Oil change -- $35')
 print('Tire rotation -- $19')

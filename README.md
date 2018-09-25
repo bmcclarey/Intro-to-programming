@@ -17,6 +17,8 @@ elif service1 == 'Car wash':
     print('service 1: Car wash, $7')
 elif service1 == 'Car wax':
     print('Service 1: Car wax, $12')
+elif service1 == '-':
+    print('Service 1: No service')
 if service2 == 'Oil change':
     print('Service 2: Oil change, $35')
 elif service2 == 'Tire rotation':
